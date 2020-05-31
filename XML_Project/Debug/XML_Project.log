@@ -1,0 +1,98 @@
+﻿  Element.cpp
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(9,17): warning C4091: '': ignored on left of 'Vector<Element>' when no variable is declared
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(39,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(58,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(157,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(171,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(180,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(198,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(207,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(221,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(223,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(231,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(251,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(265,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(280,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(289,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(322,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(325,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(336,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(348,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(350,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(363,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(417,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(422,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(424,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(430,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(439,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(458,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(463,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(465,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(471,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(480,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(457,28): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(503,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(509,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(511,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(517,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(529,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(502,28): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(548,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(559,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(142,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(139): message : while compiling class template member function 'bool Vector<Atribute>::deleteAt(const int)'
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(283): message : see reference to function template instantiation 'bool Vector<Atribute>::deleteAt(const int)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.h(9): message : see reference to class template instantiation 'Vector<Atribute>' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(49): message : while compiling class template member function 'void Vector<String>::copyVec(const Vector<String> &)'
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(69): message : see reference to function template instantiation 'void Vector<String>::copyVec(const Vector<String> &)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(68): message : while compiling class template member function 'Vector<String>::Vector(const Vector<String> &)'
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(355): message : see reference to function template instantiation 'Vector<String>::Vector(const Vector<String> &)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\Element.cpp(37): message : see reference to class template instantiation 'Vector<String>' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(127,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(118): message : while compiling class template member function 'void Vector<String>::resize(void)'
+  XMLFile.cpp
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(113): message : see reference to function template instantiation 'void Vector<String>::resize(void)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(158,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(165,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(178,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(187,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(199,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(202,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(344,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(167,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(166): message : while compiling class template member function 'int Vector<String>::findItem(const T &)'
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(166): message :         with
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(166): message :         [
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(166): message :             T=String
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(166): message :         ]
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(226): message : see reference to function template instantiation 'int Vector<String>::findItem(const T &)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(226): message :         with
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(226): message :         [
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(226): message :             T=String
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(226): message :         ]
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(19): message : see reference to class template instantiation 'Vector<String>' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(127,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(118): message : while compiling class template member function 'void Vector<String>::resize(void)'
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(113): message : see reference to function template instantiation 'void Vector<String>::resize(void)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(42): message : while compiling class template member function 'Vector<String>::Vector(void)'
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(216): message : see reference to function template instantiation 'Vector<String>::Vector(void)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(49): message : while compiling class template member function 'void Vector<char>::copyVec(const Vector<char> &)'
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(69): message : see reference to function template instantiation 'void Vector<char>::copyVec(const Vector<char> &)' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(68): message : while compiling class template member function 'Vector<char>::Vector(const Vector<char> &)'
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(134): message : see reference to function template instantiation 'Vector<char>::Vector(const Vector<char> &)' being compiled
+  XML_Project.cpp
+  Generating Code...
+C:\Users\user\source\repos\XML_Project\XML_Project\XMLFile.cpp(116): message : see reference to class template instantiation 'Vector<char>' being compiled
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(94): warning C4715: 'Vector<String>::operator[]': not all control paths return a value
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(94): warning C4715: 'Vector<Element>::operator[]': not all control paths return a value
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(94): warning C4715: 'Vector<Atribute>::operator[]': not all control paths return a value
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(94): warning C4715: 'Vector<Element>::operator[]': not all control paths return a value
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(94): warning C4715: 'Vector<String>::operator[]': not all control paths return a value
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(105): warning C4715: 'Vector<Atribute>::operator[]': not all control paths return a value
+C:\Users\user\source\repos\XML_Project\XML_Project\MyVec.hpp(105): warning C4715: 'Vector<Element>::operator[]': not all control paths return a value
+  XML_Project.vcxproj -> C:\Users\user\source\repos\XML_Project\Debug\XML_Project.exe

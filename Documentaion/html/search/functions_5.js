@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['getarray_107',['getArray',['../class_vector.html#a905c6cf40e817046f167344e7cc877e9',1,'Vector']]],
+  ['getatributes_108',['getAtributes',['../class_element.html#a606aaed47cac164d0af7465b4a0c70f1',1,'Element']]],
+  ['getatributesvalue_109',['getAtributesValue',['../class_element.html#a46a70bf5eaa4ad5879e8cea15e87478b',1,'Element']]],
+  ['getchararray_110',['getCharArray',['../class_string.html#a115c6e5da443e94a3c4eea22db2a6921',1,'String']]],
+  ['getelements_111',['getElements',['../class_element.html#af10bb79fb17fb189fd607e02d3481a25',1,'Element']]],
+  ['getelementswhitelementsvalue_112',['getElementsWhitElementsValue',['../class_element.html#a5ff4857225d594dc9629f399c21d3328',1,'Element']]],
+  ['getelementswhitname_113',['getElementsWhitName',['../class_x_m_l_file.html#a707160d47bd49dd1dfba886ba2adc4ce',1,'XMLFile']]],
+  ['getelementswithname_114',['getElementsWithName',['../class_element.html#a4aaf561d4d4731df3c7a5587059c17f5',1,'Element']]],
+  ['getid_115',['getId',['../class_element.html#aa5a781c4dfbaf32ef9149fdb5c3ad9e1',1,'Element']]],
+  ['getint_116',['getInt',['../class_string.html#aef9deda71e3d6845360202fbbe31712b',1,'String']]],
+  ['getinttostr_117',['getIntToStr',['../class_string.html#ab112e6ceb992a58fc036790c2608db88',1,'String']]],
+  ['getkey_118',['getKey',['../class_atribute.html#a07738ce1e22287337ec0af367a498b8f',1,'Atribute']]],
+  ['getname_119',['getName',['../class_element.html#ac6a0e4386b8a88c14937a2446b0c4b0c',1,'Element']]],
+  ['getnestedelementsvalue_120',['getNestedElementsValue',['../class_element.html#a9d20fdc6cff8e7d12838d94e728e2c72',1,'Element']]],
+  ['getnextindex_121',['getNextIndex',['../class_string.html#a6ba9ab3810b2de2402eed1b1a1cc99b1',1,'String::getNextIndex(int, char)'],['../class_string.html#a97598850a117e7c122c33ad381b4fdb5',1,'String::getNextIndex(int, Vector&lt; char &gt;)']]],
+  ['getvalue_122',['getValue',['../class_atribute.html#a3251564a699da3eab7b4f6a867b2dc6b',1,'Atribute']]]
+];

@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['open_129',['open',['../class_x_m_l_file.html#a0351949cb23a3927c204221e8cdef424',1,'XMLFile']]],
+  ['operator_21_3d_130',['operator!=',['../class_string.html#a9120b53517de8ad6cf4e3f5bf990c266',1,'String::operator!=(const String &amp;) const'],['../class_string.html#a2ea408c2901c0464efb9af028f6b1b28',1,'String::operator!=(const char *) const']]],
+  ['operator_2b_131',['operator+',['../class_string.html#a72d1c8e13f7f7401c48e4d5883a09571',1,'String::operator+(const String &amp;) const'],['../class_string.html#abd9ab92dbeaf619556ac8025985efa74',1,'String::operator+(const char *) const']]],
+  ['operator_2b_3d_132',['operator+=',['../class_string.html#a278617edbb686bd01585920c4b571a1a',1,'String::operator+=(const String &amp;)'],['../class_string.html#a9ead71f63999638db7c050455a11c227',1,'String::operator+=(const char *)'],['../class_string.html#a570d49a205ce831b1d628a667355fdd6',1,'String::operator+=(char)']]],
+  ['operator_3c_133',['operator&lt;',['../class_string.html#aa3cb712361c7c11a2fdfd4e27ccf371b',1,'String::operator&lt;(const String &amp;) const'],['../class_string.html#abf7c26cd70d926111e1f5d4343525a1f',1,'String::operator&lt;(const char *) const']]],
+  ['operator_3c_3d_134',['operator&lt;=',['../class_string.html#ac276a9040417b198f121f8ae8ffcf028',1,'String::operator&lt;=(const String &amp;) const'],['../class_string.html#a1c4d1c72f25827f9dbdb655941c515d5',1,'String::operator&lt;=(const char *) const']]],
+  ['operator_3d_135',['operator=',['../class_vector.html#af6100bb9a45dc36fab2c260871c0d606',1,'Vector::operator=()'],['../class_string.html#a9569887dd75996bd707c1ad9130c8b39',1,'String::operator=(const String &amp;)'],['../class_string.html#a596a0530156ee6c3c15a1555c5434883',1,'String::operator=(const char *)']]],
+  ['operator_3d_3d_136',['operator==',['../class_element.html#aea7169e4c20a1fa49fb79ffd48783457',1,'Element::operator==()'],['../class_string.html#a55db5b8071d9c48e545b931f6cb4cc23',1,'String::operator==(const String &amp;) const'],['../class_string.html#abb3f02a1317d0128a8878326b6d547d4',1,'String::operator==(const char *) const']]],
+  ['operator_3e_137',['operator&gt;',['../class_string.html#a76558ddfee2504b6624ec406e52642a6',1,'String::operator&gt;(const String &amp;) const'],['../class_string.html#ab916af62df9752d49f17508e11ce79db',1,'String::operator&gt;(const char *) const']]],
+  ['operator_3e_3d_138',['operator&gt;=',['../class_string.html#a5650111189c8f7687f55e4cd49cf2850',1,'String::operator&gt;=(const String &amp;) const'],['../class_string.html#aaf301a4fa9faebcb6131e74edc7a999b',1,'String::operator&gt;=(const char *) const']]],
+  ['operator_5b_5d_139',['operator[]',['../class_vector.html#a7d79429ab4bd638af8a3994a6e0d80ce',1,'Vector::operator[](const int)'],['../class_vector.html#af35103864026e286e12365bbc58f0090',1,'Vector::operator[](const int) const'],['../class_string.html#a1497f26dbd15e54d07bcbece446fe84f',1,'String::operator[]()']]]
+];
